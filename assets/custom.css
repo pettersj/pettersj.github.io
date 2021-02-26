@@ -7,3 +7,42 @@
     letter-spacing: -1px;
     line-height: 1;
 }
+
+.links h5 {
+	font-size: 1em;
+	margin-bottom: 0px;
+	margin-top: 1.5em;
+}
+
+
+
+.quotes blockquote {
+	letter-spacing: normal;
+	margin-bottom: 2rem;
+}
+
+.footer-col-wrapper {
+	margin-left: 0;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+}
+
+.footer-col-wrapper div {
+	flex: auto;
+}
+
+
+.site-nav label[for="nav-trigger"] {
+	margin-top: 10px;
+}
+
+.site-nav {
+	position: relative;
+ 	top: 0; 
+	right: 0;
+	background-color: #fdfdfd;
+	 border: none;
+	border-radius: 5px;
+	text-align: right;
+}
