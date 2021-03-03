@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Antiproductive productivity"
+title:  "Antiproductive productive"
 date:   2021-02-27 08:00 +0200
 categories: insight, essay
 lang: en
