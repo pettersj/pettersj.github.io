@@ -30,7 +30,7 @@ twitter:
   username: PetterSjulstad
 #github_username:  petters
 
-show_excerpts: false
+show_excerpts: true
 
 header_pages:
   # - index.html
