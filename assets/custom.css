@@ -46,3 +46,8 @@
 	border-radius: 5px;
 	text-align: right;
 }
+
+.post-content h4 {
+	margin-top: 2.5rem;
+	font-weight: 500;
+}
