@@ -6,9 +6,9 @@ categories: insight, essay
 lang: en
 permalink: /mealleable-systems/
 ---
-A rigid system is a system that solves one problem in one way. 
+A rigid system is a system that solves one problem in one way. A malleable system let's you solve a problem in many ways.
 
-It may be a good way to start building a system: You find a problem and make a solutions for those who struggle this particular problem.
+A rigid system may be a good way to start building a system: You find a problem and make a solutions for those who struggle this particular problem.
 
 But over time this may become a problem. Because since the user of the system will always evolve, you must decide whether to develop the system to the user's new needs, or stay on the same solution. As a user of the system you will then have a problem. You'll either grow out of the system, or the system will outgrow you.
 
