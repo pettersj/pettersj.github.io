@@ -1,3 +1,7 @@
+body {
+	font-size: 18px;
+}
+
 .site-header {
   border-top: none;
 }
@@ -47,9 +51,37 @@
 	text-align: right;
 }
 
+.post-content p {
+	line-height: 29px;
+}
+
+.post-content h1 {
+	font-size: 2.2rem;
+	margin-top: 2.5rem;
+	font-weight: bold;
+}
+
+.post-content h2 {
+	font-size: 1.8rem;
+	margin-top: 2.5rem;
+	font-weight: bold;
+}
+
+.post-content h2 {
+	font-size: 1.5rem;
+	margin-top: 2.5rem;
+	font-weight: bold;
+}
+
+.post-content h3 {
+	font-size: 1.2rem;
+	margin-top: 2.5rem;
+	font-weight: bold;
+}
+
 .post-content h4 {
 	margin-top: 2.5rem;
-	font-weight: 500;
+	font-weight: bold;
 }
 
 .text-muted {
